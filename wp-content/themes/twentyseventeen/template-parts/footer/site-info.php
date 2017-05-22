@@ -9,6 +9,6 @@
  */
 
 ?>
-<div class="site-info">
-	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyseventeen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'WordPress' ); ?></a>
+<div class="site-info" style="width:100%; text-align: center; float: none;">
+	Copyright ©2017 HongJH <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备17056257号</a>
 </div><!-- .site-info -->
